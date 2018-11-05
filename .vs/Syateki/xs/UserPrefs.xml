@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{48CD5150-17CA-2192-F6C0-57BA653CCB33}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Syateki/Scripts/CountDown.cs">
+    <Files>
+      <File FileName="Assets/Syateki/Scripts/BestPracticeSingleton.cs" Line="5" Column="1" />
+      <File FileName="Assets/Syateki/Scripts/ScoreManager.cs" Line="88" Column="10" />
+      <File FileName="Assets/Syateki/Scripts/JoyconController.cs" Line="12" Column="30" />
+      <File FileName="Assets/Syateki/Scripts/Singleton.cs" Line="1" Column="1" />
+      <File FileName="Assets/Syateki/Scripts/GameManager.cs" Line="29" Column="63" />
+      <File FileName="Assets/Syateki/Scripts/TargetManger.cs" Line="46" Column="48" />
+      <File FileName="Assets/Syateki/Scripts/AlignmentContorller.cs" Line="23" Column="1" />
+      <File FileName="Assets/Syateki/Scripts/Alignment.cs" Line="78" Column="39" />
+      <File FileName="Assets/Syateki/Scripts/Gun.cs" Line="9" Column="33" />
+      <File FileName="Assets/Syateki/Scripts/PlayerManager.cs" Line="39" Column="49" />
+      <File FileName="Assets/Syateki/Scripts/Target.cs" Line="43" Column="30" />
+      <File FileName="Assets/Syateki/Scripts/Timer.cs" Line="44" Column="23" />
+      <File FileName="Assets/Syateki/Scripts/Bgm.cs" Line="1" Column="1" />
+      <File FileName="Assets/Syateki/Scripts/BreakTarget.cs" Line="1" Column="1" />
+      <File FileName="Assets/Syateki/Scripts/Constants.cs" Line="1" Column="1" />
+      <File FileName="Assets/Syateki/Scripts/CountDown.cs" Line="45" Column="9" />
+      <File FileName="Assets/Syateki/Scripts/Player.cs" Line="33" Column="9" />
+      <File FileName="Assets/Syateki/Scripts/Rank.cs" Line="1" Column="1" />
+      <File FileName="Assets/Syateki/Scripts/RankController.cs" Line="14" Column="18" />
+      <File FileName="Assets/Syateki/Scripts/Score.cs" Line="17" Column="28" />
+      <File FileName="Assets/Syateki/Scripts/TwoHandredPoint.cs" Line="7" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
